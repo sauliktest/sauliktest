@@ -13,3 +13,5 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![TypeScript](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)](https://mochajs.org/) 
 [![Testing library](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)](testing-library.com) 
+
+![Snake animation](https://github.com/staulik/staulik/blob/output/github-contribution-grid-snake.svg)
